@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1425502073 source:c:\users\jerry groom\desktop\data structures\lab6\stackarray.cpp
+	<iostream>
+	"StackArray.h"
+
+1425303603 c:\users\jerry groom\desktop\data structures\lab6\stackarray.h
+	<stdexcept>
+	<iostream>
+	"Stack.h"
+
+1425303603 c:\users\jerry groom\desktop\data structures\lab6\stack.h
+	<stdexcept>
+	<iostream>
+
+1425303603 source:c:\users\jerry groom\desktop\data structures\lab6\test6.cpp
+	<iostream>
+	"config.h"
+	"StackArray.cpp"
+	"StackLinked.cpp"
+
+1425564232 c:\users\jerry groom\desktop\data structures\lab6\config.h
+
+1425567817 c:\users\jerry groom\desktop\data structures\lab6\stackarray.cpp
+	<iostream>
+	"StackArray.h"
+
+1425564713 c:\users\jerry groom\desktop\data structures\lab6\stacklinked.cpp
+	<iostream>
+	"StackLinked.h"
+
+1425567808 c:\users\jerry groom\desktop\data structures\lab6\stacklinked.h
+	<stdexcept>
+	<iostream>
+	"Stack.h"
+
+1425564713 source:c:\users\jerry groom\desktop\data structures\lab6\stacklinked.cpp
+	<iostream>
+	"StackLinked.h"
+
+1425408869 source:c:\users\jerry groom\desktop\data structures\lab6\delimiters.cpp
+	<iostream>
+	"StackLinked.cpp"
+	"StackArray.cpp"
+
